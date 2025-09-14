@@ -39,7 +39,7 @@ body{
 }
 
 .d-text{
-    font-size: 490px;
+    font-size: 25.52vw;
     color: #464646;
 }
 
@@ -60,5 +60,15 @@ body{
 }
 
 .ad-mini-text{
-    margin-left: 24%;
+    margin-left: 30%;
+}
+
+.buy{
+    padding: 10px 20px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-left: 46%;
+    margin-top: 1%;
 }
